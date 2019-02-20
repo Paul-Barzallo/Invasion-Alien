@@ -14,7 +14,7 @@ Juego de escritorio hecho en JAVA, el juego es una copia de clasico Space Invade
 
 tener java instalado
 
-#· Instalacion
+## Instalacion
 
 ninguna
 
@@ -26,5 +26,5 @@ ninguna
 ## Colaboradores
 
 * Paul Barzallo
-* José Escobar
-* Luis Rodríguez 
+* JosÃ© Escobar
+* Luis RodrÃ­guez 
